@@ -9,6 +9,7 @@ This repository contains a Python script that demonstrates the interaction with 
 - **File Uploading:** The script is capable of uploading files to a specified Discord webhook.
 - **File Searching:** It searches for files in various directories on available drives, considering specified criteria.
 - **Concurrency:** The script utilizes threading to perform file searches in parallel across multiple drives.
+- **File Type Validation:** The script validates files based on allowed extensions to ensure proper uploading.
 
 ## Setup
 
